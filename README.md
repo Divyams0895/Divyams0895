@@ -2,13 +2,12 @@
 
 ### Data Scientist | Python | Machine Learning | Data Analytics
 
-I enjoy turning data into insights and building data-driven solutions.
+I turn data into insights and build data-driven solutions.
 
 - 🔭 Interested in Data Science, Machine Learning, and AI
 - 🌱 Currently learning Machine Learning and Deep Learning
 - 📊 Exploring data analysis, visualization, and predictive modeling
 - 💡 Passionate about solving real-world problems with data
-- 📫 Reach me at: YOUR_EMAIL
 
 ---
 
